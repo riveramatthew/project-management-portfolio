@@ -36,7 +36,7 @@ Here you'll find case studies, project artifacts, and templates demonstrating my
 
 ---
 
-### **2. Process Improvement Initiative**
+### **2. Business Process Improvement Initiative**
 ![Process Map](Project_2_Process_Improvement/process-map.png)
 
 **Objective:** Redesign internal reporting workflow to increase efficiency.  
